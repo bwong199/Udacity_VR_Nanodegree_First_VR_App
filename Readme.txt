@@ -1,0 +1,1 @@
+This is a VR app. Press the "Drop Cube from the Sky" button to see cubes dropped from the sky. 
