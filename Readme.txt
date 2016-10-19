@@ -1,1 +1,1 @@
-This is a VR app. Press the "Drop Cube from the Sky" button to see cubes dropped from the sky. 
+This is a VR app. Press the "Drop Cube from the Sky" button to see cubes dropped from the sky. Press “Toggle Flashlight” to turn flashlight on and off. Press “Toggle Sun” to turn the sun on or off. 
